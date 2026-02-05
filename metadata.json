@@ -1,0 +1,5 @@
+{
+  "name": "Cantina Escolar PDV Chatbot (Frontend)",
+  "description": "React frontend application for a school canteen Point-of-Sale chatbot. Features a WhatsApp-like UI for sales, student registration, balance checks, and payment processing. This application requires a separate Flask backend with SQLite and Gemini API integration to function completely.",
+  "requestFramePermissions": []
+}
